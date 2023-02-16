@@ -25,5 +25,5 @@
   "message": "Uptime Robot!!",
   "router": "/",
   "hit": 256,
-  "maintenance": true
+  "maintenance": false
 }
