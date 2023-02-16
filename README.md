@@ -13,9 +13,6 @@ dan Berat Ram Bot ini ringan sekali...
 </p>
 
 > Minimal Star dulu untuk menggunakan Repository ini.
-Bot ini masih di development [ Jadi agak sabar yahh ].
-tetapi sistem dari bot ini sudah di optimalkan [ Tinggal Fitur ].
-karena Bot ini sebelumnya dimasukan ke Github dalam Mode private.
 
 ### How to Install ?
 
